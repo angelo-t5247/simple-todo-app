@@ -1,0 +1,29 @@
+
+html, body{
+  height: 100%;
+  weight: 100%;
+  font-family: sans-serif, serif;
+  color: #222;
+}
+
+.container {
+  padding: 3rem;
+}
+
+.column {
+  padding: 2rem;
+}
+
+.navbar-nav {
+  margin-right: 3rem;
+}
+
+.Welcome {
+  margin-top: 1rem;
+}
+
+footer{
+  padding-top:10rem;
+  position: absolute;
+  bottom: 0;
+}
